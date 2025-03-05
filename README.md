@@ -30,8 +30,8 @@ Display the original, lower contrast, and higher contrast images.
 Split the image (boy.jpg) into B, G, R components and display the channels
 
 ## Program Developed By:
-- **Name:** VIKAASH K S
-- **Register Number:** 212223240179
+- **Name:** SHASHANK R
+- **Register Number:** 212223230205
 
   ### Ex. No. 01
 
@@ -214,52 +214,52 @@ plt.show()
 - ### **i)** Read and Display an Image.  
    1.Read 'Eagle_in_Flight.jpg' as grayscale and display:
 
-  ![alt text](<greyscale eagle.png>)
+![image](https://github.com/user-attachments/assets/05abef1a-3fe8-47b7-9ad5-b2ca4ed7d308)
 
   2.Save image as PNG and display:
 
-  ![alt text](<png eagle.png>)
+![image](https://github.com/user-attachments/assets/375abdc6-45b8-4498-a936-f64eef03de0b)
 
   3.Cropped image:
 
-  ![alt text](<cropped region.png>)
+![image](https://github.com/user-attachments/assets/1ac214d1-74ee-48fd-92e4-2ec3c08d0564)
 
   4.Resize and flip Horizontally:
 
-  ![alt text](<flipped horizontally.png>)
+![image](https://github.com/user-attachments/assets/f56cf1d8-09f3-4c3a-9788-7a98c642a7c1)
 
   5.Read 'Apollo-11-launch.jpg' and  Display the final annotated image:
 
-  ![alt text](<apollo annotated .png>)
+![image](https://github.com/user-attachments/assets/86e6bea4-c193-46f0-9508-b4227a020661)
 
 - ### **ii)** Adjust Image Brightness.
 
 1.Create brighter and darker images and display:
 
-![alt text](<bright and dark boy.png>)
+![image](https://github.com/user-attachments/assets/e106c088-561d-4d5a-b3f4-8b0abc4c9172)
 
 - ### **iii)** Modify Image Contrast.  
 1. Modify contrast using scaling factors 1.1 and 1.2:
 
-![alt text](<contrast boy.png>)
+![image](https://github.com/user-attachments/assets/b5fa5a19-ab72-4f94-b535-323bd86aaf42)
 
 - ### **iv)** Generate Third Image Using Bitwise Operations.
 
 1.Split 'Boy.jpg' into B, G, R components and display:
 
-![alt text](<bgr boy.png>)
+![image](https://github.com/user-attachments/assets/7cdf43ed-c502-4db1-b656-06d8777a837d)
 
 2.Merge the R, G, B channels and display:
 
-![alt text](<Merged rgb boy.png>)
+![image](https://github.com/user-attachments/assets/32b89c30-710b-49b4-8bf3-5d181981e859)
 
 3.Split the image into H, S, V components and display:
 
-![alt text](<hsv boy.png>)
+![image](https://github.com/user-attachments/assets/8f96c0d4-6236-443a-901c-64e70d543857)
 
 4.Merge the H, S, V channels and display:
 
-![alt text](<merged hsv with original.png>)
+![image](https://github.com/user-attachments/assets/5dbf7ea7-9014-4712-a1f9-daae36410ace)
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
